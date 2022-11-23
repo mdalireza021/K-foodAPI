@@ -8,7 +8,7 @@ A RESTful API for getting korean delicious food details
   
 ## Demo
 
-This application is deployed on Heroku. Please check it out :happy: [here](https://k-food-api-80202.herokuapp.com/).
+This application is deployed on Heroku. Please check it out: [here](https://k-food-api-80202.herokuapp.com/).
 
 ## Install
 
